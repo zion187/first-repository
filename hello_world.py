@@ -3,7 +3,6 @@ def print_hello():
 
 def print_kingfrog():
     print("King Frog")
-    print("King Suuuuper Frog")
 
 def add(x, y):
     a = x+y
