@@ -3,6 +3,17 @@ def print_hello():
 
 def print_kingfrog():
     print("King Frog")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    print("sleep sleep sleep sleep")
+    
 
 def add(x, y):
     a = x+y
